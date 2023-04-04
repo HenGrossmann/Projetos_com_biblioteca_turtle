@@ -1,3 +1,3 @@
-# Corrida de Tartarugas
+# Pong Game
 
-Um programa monstrando uma 'corrida' entre tartarugas onde o usuario pode escolher uma em que ele ache que vai vencer, programa feito para testar a biblioteca Turtle
+Programa feito baseado no famoso jogo 'pong' usando a biblioteca Turtle
